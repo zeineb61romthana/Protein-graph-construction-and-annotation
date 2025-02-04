@@ -1,5 +1,4 @@
-# Protein-graph-construction-and-annotation
-Here’s a **GitHub repository description** that you can **copy and paste** directly:  
+# Protein-graph-construction-and-annotation  
 
 ---
 
@@ -20,7 +19,7 @@ This project builds a **large-scale protein similarity graph** using **PySpark**
 
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/protein-graph.git  
+git clone https://github.com/zeineb61romthana/protein-graph.git  
 cd protein-graph  
 ```  
 
